@@ -1,0 +1,168 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"> 
+    <link href="styles.css"  rel="stylesheet">
+    </link>
+    <title></title
+    </head>
+    <body>
+      <div class="container">
+        <header>
+          <h1 id="title">FORMULARIO DE CAPTACIÓN DE DATOS</h1>
+          <p id="description">¡Gracias por su compromiso con esta indagación, por nuestra parte nos comprometemos a lucrarnos muy bien con toda su información!</p>
+        </header>
+        <form id="survey-form" class="form-group">
+          <div class="formulario">
+            <label for="" id="name-label" >Nombre</label>
+            <input id="name" type="text" name="" value="" placeholder="Ingrese su nombre" required/>
+          </div>
+          <div class="">
+            <label for="email" id="email-label" >Correo electrónico</label>
+            <input id="email" type="email" name="" value="" placeholder="Ingrese su correo" required ></input>
+            </div>
+            <div class="">
+              <label for="number" id="number-label" >Edad (obligatorio)</label>
+              <input id="number" type="number" name="" min="18" max="50" placeholder="Edad"></input>              
+              </div>
+              <div class="">
+                <p id="" >¿Qué opciones nos sugieres mejorar en nuestra página?</p>
+                <select id="dropdown" class="">
+                  <option value="" disable selected >Seleccione una opción</option>
+                  <option value="">Mejorar el contenido</option>
+                  <option value="">No publicar más</option>
+                  <option value="" >Buscarse otra ocupación</option>
+                </select>
+              </div>
+              <div class="">
+                <p id="" class="">¿Recomendaría nuestro nuesto esperpento?</p>
+                <label for="radio1" class="class-radio">
+                  <input id="radio1" type="radio" name="recomendar" value="definitivamente"/>Definitivamente                  
+                </label>
+                <label for="radio2" class="class-radio"><input id="radio2" type="radio" name="recomendar" value="nunca" checked/>Nunca
+                  <label>
+                    <label for="radio3" class="class-radio">
+                      <input id="radio3" type="radio" name="recomendar" value="jamas" />Jamás
+
+                    </label>
+              </div>
+              <div class="">
+                <p id="" class="">¿Cómo te definirías personalemente</p>
+                <select id="" class="">
+                  <option value="" disable selected>Elija una opción</option>
+                  <option value="">Profesionalmente incapaz</option>
+                  <option value="">Inseguro</option>
+                  <option value="">Edemoniadamente alegre</option>
+                </select>
+              </div>
+              <div class="">
+                <p id="" class="">¿Qué otros temas te son necesarios y son de tu interés para proceder a omirlos? (marque todo lo que corresponde)</p>
+                <label for="" class="check" >
+                  <input id="checkbox1" type="checkbox" value="frontend"/>Proyectos front end
+                </label>
+                <label for="" class="">
+                  <input id="checkbox2" type="checkbox" value="backend"/>Proyectos back end
+                </label>
+                <label for="" class="">
+                  <input id="checkbox3" type="checkbox" value="datos" />Visualizacion de datos
+                </label>
+    <label for="" class="">
+      <input id="checkbox4" type="checkbox" value="saludable"/>Cocina poco saludable
+    </label>
+                </div>
+                <div id="" class="">
+    <label for="" class="">¿Alguna sugerencia o comentario? ... ¡para no tenerlo en cuenta!
+    </label>
+    <textarea id="textarea" type="textarea" value="" placeholder="ingrese su comentario" cols="" rows=""></textarea>
+                </div>
+                <div>
+                  <button type="submit" id="submit" value="enviar" placeholder="">Enviar</button>
+                </div>
+  </form>     
+</div>
+</body>
+  </html>
+
+
+
+
+
+
+
+
+
+** end of undefined **
+
+** start of undefined **
+
+body { background-color:rgb(0,0,100); 
+}
+#title{
+  color: white;
+  text-align: center;
+  
+  }
+  #description {
+    color: white;
+    text-align: center;
+  }
+    #survey-form {    background-color: rgb(0,0,49);
+  color: white;
+      
+  }
+  #survey-form {
+    margin: auto;
+    width: 80%;
+    padding: 40px;
+  }
+ #name-label, #email-label, #number-label {
+   display: flex;
+ }
+ #textarea {
+   display: flex;
+ }
+ #checkbox1,
+ #checkbox2,
+ #checkbox3,
+ #checkbox4  {
+   display: flex;
+ }
+ .check {
+   vertical-align: center;
+ }
+ #radio1,
+ #radio2,
+ #radio3
+   {
+   display: flex;
+ }
+ 
+ input[type=text], 
+ input[type=number],
+ input[type=textarea],     select {
+   width:100%;
+   height:40px;
+   border-radius: 5px
+  }
+input[type=email] {
+  width:100%;
+  height:40px;
+  border-radius: 5px
+}
+button[type=submit] {
+  background-color: green;
+  width: 100%;
+  height: 40px;
+  margin-top: 30px;
+  color:white;
+  border-radius: 5px;
+}
+  #textarea {
+    height: 150px;
+    width:100%;
+  }
+
+** end of undefined **
+
