@@ -6,7 +6,7 @@
 
 ## 📝 Descripción
 
-Proyecto de certificación de **freeCodeCamp** (Responsive Web Design). Consiste en un formulario de encuesta (survey form) con campos diversos para recopilar opiniones sobre un sitio web ficticio. Este proyecto demuestra el uso de HTML semántico y CSS para crear formularios accesibles y responsivos.
+Proyecto de certificación de **freeCodeCamp** (Responsive Web Design). Es un formulario de encuesta (survey form) con campos diversos para recopilar opiniones sobre un sitio web ficticio. Este proyecto demuestra el uso de HTML semántico y CSS para crear formularios accesibles y responsivos.
 
 Puedes ver la versión en vivo aquí:  
 👉 [https://ramontrrl.github.io/SurveyFCC/](https://ramontrrl.github.io/SurveyFCC/)
@@ -27,8 +27,6 @@ Puedes ver la versión en vivo aquí:
 
 ## 📁 Estructura del proyecto
 
-*(Ajusta los nombres de archivo según los que tengas en el repositorio)*
-
 - `index.html` – Página principal del formulario
 - `styles.css` – Estilos visuales
 
@@ -42,8 +40,9 @@ Puedes ver la versión en vivo aquí:
 ## 📌 Certificación
 
 Este proyecto forma parte del currículo de **Responsive Web Design** de freeCodeCamp.  
-Puedes ver mi progreso en: [Mi perfil de freeCodeCamp](https://www.freecodecamp.org/ramontrrl) *(ajusta el enlace si tienes)*
+
 
 ---
+P.D:
 
-_Formulario creado como parte del aprendizaje en freeCodeCamp._
+_Formulario creado como parte del aprendizaje en freeCodeCamp
