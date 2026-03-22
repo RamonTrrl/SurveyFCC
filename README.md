@@ -2,7 +2,7 @@
 
 ## 📸 Vista previa
 
-![Vista previa del formulario](URL_DE_LA_IMAGEN_AQUÍ)
+![Vista previa del formulario](https://github.com/RamonTrrl/SurveyFCC/blob/main/Formulario_CaptacionDatos.png)
 
 ## 📝 Descripción
 
