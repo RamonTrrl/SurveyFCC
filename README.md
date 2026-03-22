@@ -29,7 +29,7 @@ Puedes ver la versión en vivo aquí:
 
 - [`index.html`](https://github.com/RamonTrrl/SurveyFCC/blob/main/index.html) – Página principal del formulario
 - [`styles.css`](https://github.com/RamonTrrl/SurveyFCC/blob/main/styles.css) – Estilos visuales
-- [`Formulario_png`](https://github.com/RamonTrrl/SurveyFCC/blob/main/Formulario_CaptacionDatos.png)
+- [`Formulario_png`](https://github.com/RamonTrrl/SurveyFCC/blob/main/Formulario_CaptacionDatos.png) - Imagen del formulario
 
 
 ## 🚀 Cómo probarlo localmente
