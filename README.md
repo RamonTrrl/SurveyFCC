@@ -17,7 +17,7 @@ Puedes ver la versión en vivo aquí:
 - ✅ Diseño responsivo (se adapta a móviles, tablets y escritorio)
 - ✅ Campos variados: texto, email, número, radio, checkbox, select, textarea
 - ✅ Interfaz limpia y centrada en la usabilidad
-- ✅ Cumple con los requisitos de certificación de freeCodeCamp
+
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -27,8 +27,9 @@ Puedes ver la versión en vivo aquí:
 
 ## 📁 Estructura del proyecto
 
-- `index.html` – Página principal del formulario
-- `styles.css` – Estilos visuales
+- [`index.html`](https://github.com/RamonTrrl/SurveyFCC/blob/main/index.html) – Página principal del formulario
+- [`styles.css`](https://github.com/RamonTrrl/SurveyFCC/blob/main/styles.css) – Estilos visuales
+- [`Formulario_png`](https://github.com/RamonTrrl/SurveyFCC/blob/main/Formulario_CaptacionDatos.png)
 
 
 ## 🚀 Cómo probarlo localmente
