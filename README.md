@@ -44,6 +44,3 @@ Este proyecto forma parte del currículo de **Responsive Web Design** de freeCod
 
 
 ---
-P.D:
-
-_Formulario creado como parte del aprendizaje en freeCodeCamp
