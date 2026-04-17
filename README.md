@@ -6,7 +6,7 @@
 
 ## 📝 Descripción
 
-Proyecto de certificación de **freeCodeCamp** (Responsive Web Design). Es un formulario de encuesta (survey form) con campos diversos para recopilar opiniones sobre un sitio web ficticio. Este proyecto demuestra al universo y sus dioses que su humilde servior es todo un un "crack" en el uso de HTML semántico y CSS para crear formularios accesibles y responsivos... Aqui solo queda añadir un auto <img src="https://raw.githubusercontent.com/RamonTrrl/Responsive-Web-Design-FCC/main/plop-ico.png" alt="Plop" width="50" style="vertical-align: middle;">!!
+Proyecto de certificación de **freeCodeCamp** (Responsive Web Design). Es un formulario de encuesta (survey form) con campos diversos para recopilar opiniones sobre un sitio web ficticio. **Este proyecto demuestra al universo y sus dioses que su humilde servior es todo un un "crack"** en el uso de HTML semántico y CSS para crear formularios accesibles y responsivos... Aqui solo queda añadir un auto <img src="https://raw.githubusercontent.com/RamonTrrl/Responsive-Web-Design-FCC/main/plop-ico.png" alt="Plop" width="50" style="vertical-align: middle;">!!
 
 Puedes ver la versión en vivo aquí:  
 👉 [https://ramontrrl.github.io/SurveyFCC/](https://ramontrrl.github.io/SurveyFCC/)
