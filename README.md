@@ -32,11 +32,11 @@ Puedes ver la versión en vivo aquí:
 - [`Formulario_png`](https://github.com/RamonTrrl/SurveyFCC/blob/main/Formulario_CaptacionDatos.png) - Imagen del formulario
 
 
-## 🚀 Cómo probarlo localmente
+## 🚀 Si quieres ver este proyecto en tu PC sin depender de internet, descárgalo así y ábrelo
 
 1. Clona este repositorio:  
    `git clone https://github.com/RamonTrrl/SurveyFCC.git`
-2. Abre `index.html` en tu navegador.
+2. Abre `index.html` en tu navegador... y la magia se hará realidad!! 😜
 
 ## 📌 Certificación
 
